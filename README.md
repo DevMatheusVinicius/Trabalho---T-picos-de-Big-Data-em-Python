@@ -1,3 +1,5 @@
+# Projeto de Tópicos de Big Data em Python
+
 Este repositório contém o projeto desenvolvido para a disciplina **Tópicos de Big Data em Python**, ministrada pelo professor **Roney Camargo Malaguti**.
 
 **COMPONENTES DO GRUPO:**
