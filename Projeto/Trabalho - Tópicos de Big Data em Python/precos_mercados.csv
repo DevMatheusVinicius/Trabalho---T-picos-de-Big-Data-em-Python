@@ -1,0 +1,895 @@
+mercado,produto,nome,preco,link
+Mercantil,arroz,Arroz Parboilizado Emoções Tipo2 1Kg,6.09,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Branco Emoções Tipo1 1Kg,6.29,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Parbolizado Tio Migote Tipo 2 1Kg,4.99,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Integral Urbano 1Kg,8.29,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Integral Emoções 1Kg,7.49,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Parboilizado Urbano Tipo1 1Kg,7.09,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Parboilizado Tio João Tipo1 1Kg,8.29,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Parboilizado Kilão 1Kg,5.29,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Tio João a Grega 250g,10.39,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Tio João Curry 250g,10.39,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Mercantil,arroz,Arroz Parboilizado Emoções Tipo2 1Kg,6.09,"https://www.mercantilatacado.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Hiperideal,arroz,Arroz Parboilizado Tio Mingote Tp2 1kg ,5.29,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Branco Tio João Tp1 1kg ,7.99,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Branco Emoções Tp1 1kg ,6.59,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral Tio João Vermelho Tp1 500g ,19.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Parboilizado Tio João Tp1 1kg ,7.19,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral Parboilizado Emoções Tipo1 1kg ,7.99,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Branco Camil Tipo 1 1kg ,6.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral 7 Grãos Tio João 500g ,13.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral Tio João Saquinho 1kg ,9.99,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral Meu Biju 8 Grãos Com Quinoa 500g ,12.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Arbório Italiano Riso Inverni 500g ,17.99,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral Meu Biju 8 Grãos Com Aveia 500g ,12.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral Tio João Basmati 500g ,19.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral Tio João Cozinha Fácil À Grega 250g ,13.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Preto Tio Joao 500g ,29.79,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral  8 Grãos Meu Biju Chia 500g ,12.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Cannaroli Italiano Riso Inverni 500g ,22.79,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral 7 Grãos Tio João + Passas 500g ,13.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Orgânico Tio João Tipo1 1kg ,16.99,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Hiperideal,arroz,Arroz Integral Tio João Veg 200g ,13.89,"https://www.hiperideal.com.br/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and&query=/arroz/arroz&searchState"
+Gbarbosa,arroz,Arroz Branco Tio João Tipo1 1Kg,9.99,"https://www.gbarbosa.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Gbarbosa,arroz,Arroz Branco Camil Tipo1 1Kg,7.99,"https://www.gbarbosa.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Gbarbosa,arroz,Arroz Branco Tio Urbano 1Kg,7.79,"https://www.gbarbosa.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Gbarbosa,arroz,Arroz Branco Tio Mingote Tipo1 1Kg,6.99,"https://www.gbarbosa.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Gbarbosa,arroz,Arroz Branco Biorgânica Orgânico 500g,10.99,"https://www.gbarbosa.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Gbarbosa,arroz,Arroz Parboilizado Sepé 1Kg,5.89,"https://www.gbarbosa.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Gbarbosa,arroz,Arroz Parboilizado GBarbosa Tipo1 1Kg,4.79,"https://www.gbarbosa.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Gbarbosa,arroz,Arroz Parboilizado Vila Nova Tipo1 1Kg,6.69,"https://www.gbarbosa.com.br/arroz/arroz?_q=arroz&fuzzy=0&initialMap=ft&initialQuery=arroz&map=category-3,ft&operator=and"
+Paodeacucar,arroz,Arroz Agulhinha Tipo 1 CAMIL Pacote 1kg,7.09,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Agulhinha Tipo 1 TIO JOÃO Pacote 1kg,7.39,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Agulhinha Tipo 1 CAMIL Pacote 5kg,26.9,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Agulhinha Tipo 1 PRATO FINO Pacote 1kg,7.19,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Branco Tipo 1 Qualitá Pacote 1kg,5.49,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Agulhinha Longo Fino Tipo 1 TIO JOÃO Pacote 2kg,14.49,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Agulhinha Tipo 1 TIO JOÃO Pacote 5kg,36.99,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Parboilizado Tipo 1 TIO JOÃO Pacote 1kg,7.19,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Agulhinha Tipo 1 Prato Fino Pacote 5kg,34.99,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Branco Tipo 1 Qualitá Pacote 5kg,23.49,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Camil Tipo 1 Pacote 2kg,13.99,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Integral Tipo 1 CAMIL Pacote 1kg,8.79,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Branco Tipo 1 Qualitá Pacote 2kg,10.79,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Integral Tipo 1 TIO JOÃO Pacote 1kg,9.99,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Parboilizado Tipo 1 Qualitá Pacote 1kg,5.49,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Integral 7 Grãos com Quinoa TIO JOÃO Pacote 500g,17.49,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Agulhinha Tipo 1 Longo Fino CAMIL Reserva Especial Pacote 1kg,8.19,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Culinária Oriental Tipo 1 MOMIJI Pacote 1kg,17.29,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Integral 8 Grãos com Quinoa Biju Pacote 500g,11.79,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Parboilizado Tipo 1 CAMIL Pacote 5kg,30.99,https://www.paodeacucar.com/busca?terms=arroz
+Paodeacucar,arroz,Arroz Parboilizado Tipo 1 CAMIL Pacote 1kg,7.19,https://www.paodeacucar.com/busca?terms=arroz
+Redemix,arroz,ARROZ BRANCO TIO JOÃO 100% GRÃOS NOBRES 1KG,7.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ BRANCO EMOÇÕES 1KG,5.59,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ INTEGRAL EMOÇÕES 1KG,7.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ PARBOLIZADO EMOÇÕES 1KG,5.39,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ INTEGRAL TIO JOÃO 1KG,9.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ PARBOLIZADO TIO JOÃO 1KG,6.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ PARBOLIZADO TIO MINGOTE 1KG,5.29,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ 7 GRÃOS INTEGRAIS TIO JOÃO 500G,15.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ PARBOLIZADO TIO JOÃO 8 SAQUINHOS 1KG,9.59,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ INT VERM TIO JOAO TOM 200G,14.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ PARBOLIZADO CAMIL 1KG,6.89,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ BRANCO CAMIL 1KG,6.89,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ ITALIANO RISO INVERNI ARBORIO 500G,22.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ PRETO TIO JOÃO VARIEDADES MUNDIAIS COZINHA CHINESA 500G,29.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ BASMATI TIO JOÃO VARIEDADES MUNDIAIS COZINHA INDIANA 500G,20.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ ARBÓRIO EMOÇÕES 1KG,22.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ 7 GRÃOS INTEGRAIS + PASSAS DE UVA TIO JOÃO 500G,14.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Redemix,arroz,ARROZ INTEGRAL CAMIL 1KG,8.98,https://www.redemix.com.br/mercearia/graos-e-farinaceos/arroz/arroz?O=OrderByTopSaleDESC&PS=18#3
+Mercantil,feijão,Feijão Carioca Kicaldo 1Kg,6.99,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Preto Kicaldo Tipo 1 1Kg,7.39,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Carioca Rio Imperial Tipo 1 1Kg,5.75,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Carioca Popular 1Kg,4.29,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Preto Rio Imperial 1Kg,6.19,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Fradinho Rio Imperial 500g,3.69,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Preto Kicaldo 500g,4.59,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Branco Kicaldo 500g,9.29,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Preto Dular 500g,4.05,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Fradinho Manolinho 1Kg,7.49,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Preto Manolinho 1Kg,9.19,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Fradinho Rio Imperial Tipo 2 1Kg,6.35,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Mulatinho Rio Imperial 1Kg,9.99,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Feijão Branco Dular 500g,9.99,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,Tempero Maratá P/ Feijão Pacote 60g,3.25,https://www.mercantilatacado.com.br/feijão
+Mercantil,feijão,"Tempero em Pó Kitano p/ Feijão Cebola, Louro e Bacon Mais Sabor Pacote 60g c/ 12 Unid",4.89,https://www.mercantilatacado.com.br/feijão
+Hiperideal,feijão,Feijão Carioquinha Manolinho T1 1kg ,6.99,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Carioquinha Kicaldo 1kg ,8.59,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Preto Kicaldo 1kg ,9.99,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Manolinho Preto T1 1kg ,7.59,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Verde Bandeja 160g ,7.2,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Branco Kicaldo 500g ,11.99,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Fradinho Alimenta 500g ,3.89,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Organico Kicaldo 500g ,8.99,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Preto Tio Mingote 1kg ,9.69,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Branco Poligrãos 500g ,11.39,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Kicaldo Vermelho 1kg ,17.99,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Preto Alimenta 500g ,5.79,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijão Branco Biju 500g ,11.99,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Prato Pronto Seara Caldo Feijão Bacon 300g ,19.99,https://www.hiperideal.com.br/feijão
+Hiperideal,feijão,Feijao Kicaldo Rajado 1kg ,16.69,https://www.hiperideal.com.br/feijão
+Gbarbosa,feijão,Feijão Carioca GBarbosa Tipo1 1Kg,6.99,https://www.gbarbosa.com.br/feijão
+Gbarbosa,feijão,Feijão Carioca Manolinho Tipo1 1Kg,6.99,https://www.gbarbosa.com.br/feijão
+Gbarbosa,feijão,Feijão Preto GBarbosa Tipo1 1Kg,7.99,https://www.gbarbosa.com.br/feijão
+Gbarbosa,feijão,Feijão Carioca Bom Gosto Tipo 1 1Kg,4.49,https://www.gbarbosa.com.br/feijão
+Gbarbosa,feijão,Feijão Carioca Dular Tipo1 1Kg,7.99,https://www.gbarbosa.com.br/feijão
+Gbarbosa,feijão,Feijão Fradinho GBarbosa 1Kg,8.49,https://www.gbarbosa.com.br/feijão
+Gbarbosa,feijão,Feijão Branco Kicaldo 500g,8.99,https://www.gbarbosa.com.br/feijão
+Gbarbosa,feijão,Feijão Fradinho Dular 1Kg,7.29,https://www.gbarbosa.com.br/feijão
+Paodeacucar,feijão,Feijão Carioca Tipo 1 CAMIL Pacote 1kg,6.49,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Preto Tipo 1 CAMIL Pacote 1kg,6.99,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Carioca Tipo 1 Cores Qualitá Pacote 1kg,6.49,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Carioca Tipo 1 KICALDO Pacote 1Kg,7.59,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Carioca BROTO LEGAL Pacote 1kg,9.49,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Carioca Tipo 1 Pantera Premium Pacote 1kg,9.19,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Preto Tipo 1 Qualitá Pacote 1kg,6.69,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijao Vermelho Urbano 500g,7.19,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Carioca Pronto CAMIL Caixa 380g,8.79,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Preto Tipo 1 SUPER MÁXIMO Pacote 1kg,8.99,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Branco Tipo 1 Urbano Seleção Especial Pacote 500g,8.39,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Carioca Tipo 1 Nene Pacote 1kg,6.99,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Carioca Tipo 1 Sabor Máximo Pacote 1kg,7.89,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Rajado CAMIL Pacote 500g,10.49,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Fradinho Tipo 1 Urbano Seleção Especial Pacote 500g,5.49,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Preto Tipo 1 Kicaldo Pacote 1Kg,8.09,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Fradinho CAMIL Pacote 500g,6.39,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Branco CAMIL Pacote 500g,12.29,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Preto Pronto CAMIL Caixa 380g,8.79,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Bolinha CAMIL Pacote 500g,11.79,https://www.paodeacucar.com/busca?terms=feijão
+Paodeacucar,feijão,Feijão Carioca Orgânico Cozido no Vapor VAPZA Caixa 250g,12.29,https://www.paodeacucar.com/busca?terms=feijão
+Redemix,feijão,FEIJÃO CARIOCA MANOLINHO 1KG,7.29,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO PRETO KICALDO 1KG,7.99,https://www.redemix.com.br/feijão#1
+Redemix,feijão,TEMPERO PARA FEIJÃO SAZON 60G,6.98,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO FRADINHO POLIGRÃOS 500G,3.99,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO CARIOCA TIO MINGOTE 1KG,6.98,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO PRETO MANOLINHO 1KG,7.49,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO CARIOCA ORGÂNICO KICALDO 500G,9.98,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJAO CARIOQ MELHOR CALDO T1 1KG,6.69,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJAO FRADINHO POLIGRAOS 1KG,7.99,https://www.redemix.com.br/feijão#1
+Redemix,feijão,CALDO STOCK DE FEIJAO VERO BRODO 750ML,23.98,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO CARIOQUINHA ALIMENTA 1KG,7.19,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO BRANCO KICALDO 500G,11.99,https://www.redemix.com.br/feijão#1
+Redemix,feijão,MACARRÃO PARAFUSO DE ARROZ E FEIJÃO PRETO SEM GLUTÉN URBANO 500G,6.98,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO PRETO RIO IMPERIAL 1KG,7.98,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO FRADINHO RIO IMPERIAL 500G,3.98,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO PRETO POLIGRÃOS 500G,3.89,https://www.redemix.com.br/feijão#1
+Redemix,feijão,FEIJÃO FRADINHO RIO IMPERIAL 1KG,7.98,https://www.redemix.com.br/feijão#1
+Mercantil,macarrão,Macarrão Espaguete Favorita Comum 400g,2.89,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Petyan Espaguete 400g,3.09,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Spaguetto Espaguete 400g,2.39,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Instantâneo Nissin Miojo Nosso Sabor Lámen Galinha Caipira Pacote 74g,1.89,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Pilar Espaguete Fino Pacote 400g,2.89,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Instantâneo Nissin Miojo Nosso Sabor Lámen Carne Pacote 74g,1.89,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão de Sêmola Penne Vitarella Pacote 400g,3.45,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Espaguete Fortaleza Imperador Pacote 400g,2.95,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Instantâneo Nissin Miojo Lámen Galinha Caipira Pacote 85g,2.49,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Instantâneo Nissin Miojo Nosso Sabor Lámen Galinha Picante Pacote 74g,1.89,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão de Sêmola Ninho Vitarella Pacote 400g,4.25,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão de Sêmola Ave Maria Brandini Pacote 500g,6.49,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Instantâneo Nissin Miojo Lámen Carne Pacote 85g,2.49,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Instantâneo Nissin Miojo Turma da Mônica Lámen Galinha Suave Pacote 85g,2.59,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão Instantâneo Nissin Miojo Nosso Sabor Lámen Carne Picante Pacote 74g,1.89,https://www.mercantilatacado.com.br/macarrão
+Mercantil,macarrão,Macarrão de Sêmola Fortaleza c/ Ovos Parafuso Pacote 500g,4.89,https://www.mercantilatacado.com.br/macarrão
+Hiperideal,macarrão,Macarrão Bifum Orien Sem Glúten 200g ,16.99,https://www.hiperideal.com.br/macarrão
+Hiperideal,macarrão,Macarrão Bifum Kodilar 200g ,14.99,https://www.hiperideal.com.br/macarrão
+Hiperideal,macarrão,Porta Macarrão Sanremo 694 880ml ,12.49,https://www.hiperideal.com.br/macarrão
+Gbarbosa,macarrão,Macarrão Pilar Espaguete Fino Pacote 400g,3.49,https://www.gbarbosa.com.br/macarrão
+Gbarbosa,macarrão,Macarrão Espaguete Favorita Comum 400g,3.29,https://www.gbarbosa.com.br/macarrão
+Gbarbosa,macarrão,Macarrão Espaguete Fino Vitarella Pacote 400g,3.79,https://www.gbarbosa.com.br/macarrão
+Gbarbosa,macarrão,Macarrão de Sêmola Parafuso Fortaleza Pacote 400g,4.39,https://www.gbarbosa.com.br/macarrão
+Gbarbosa,macarrão,Macarrão Parafuso Brandini Tradicional 500g,4.99,https://www.gbarbosa.com.br/macarrão
+Gbarbosa,macarrão,Macarrão de Sêmola Penne Fortaleza Pacote 400g,4.49,https://www.gbarbosa.com.br/macarrão
+Gbarbosa,macarrão,Macarrão de Sêmola Ninho Fortaleza Pacote 400g,4.89,https://www.gbarbosa.com.br/macarrão
+Paodeacucar,macarrão,Mac e Cheese Cheddar e Bacon Seara Caixa 300g,12.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Mac e Cheese Cheddar Seara Caixa 300g,12.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão com Ovos Parafuso Barilla Pacote 500g,5.59,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão ADRIA com Ovos Espaguete - 8 500g,4.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão com Ovos Penne Rigate Barilla Pacote 500g,5.59,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão Italiano Espaghetti Nº 5 BARILLA 500g,15.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão ADRIA com Ovos Parafuso 500g,4.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão Grano Duro Linguine 13 Barilla Caixa 500g,15.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão com Ovos Linguine Barilla Pacote 500g,5.59,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão de Sêmola com Ovos Espaguete Qualitá Pacote 500g,3.99,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão ADRIA com Ovos Pena 500g,4.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão com Ovos Fettuccine Barilla Pacote 500g,5.59,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Barilla Capellini Grano Duro 500g,15.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Barilla Penne Rigate Grano Duro 500g,14.99,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão de Sêmola com Ovos Penne Qualitá Pacote 500g,3.99,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão Italiano Spaghetoni Nº 7 BARILLA 500g,15.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão Barilla com Ovos Espaguetinho N°9 500g,5.59,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão ADRIA com Ovos Espaguetinho - 9 500g,4.29,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão Italiano Rigatoni DE CECCO Pacote 500g,17.99,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão com Ovos Caseiro Talharim Nº 2 QUALITÁ Pacote 500g,9.19,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Barilla Farfalle Grano Duro 500g,14.99,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão com Ovos Caseiro Talharim Nº 1 DE Pacote 500g,8.19,https://www.paodeacucar.com/busca?terms=macarrão
+Paodeacucar,macarrão,Macarrão de Sêmola com Ovos Penne Renata Pacote 500g,5.39,https://www.paodeacucar.com/busca?terms=macarrão
+Redemix,macarrão,MACARRÃO ESPAGUETE DE ARROZ ZERO GLUTÉN URBANO 500G,5.98,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO DE ARROZ PARAFUSO ZERO GLUTÉN URBANO 500G,5.98,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO ESPAGUETE 8 SEMOLADO GALO 500G,4.19,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,PACK MACARRAO INSTANTANEO NISSIN GALINHA 6 UNIDADES,15.98,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO DE ARROZ INTEGRAL PARAFUSO ZERO GLUTÉN URBANO 500G,6.98,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO PARAFUSO INTEGRAL GALO 500G,5.49,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO DE SÊMOLA ESPAGUETE INTEGRAL GALO 500G,5.49,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO FETTUCCINE GALO 500G,4.69,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO ESPAGUETE 8 COM OVOS RENATA 500G,5.19,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO ESPAGUETE GALO 500G,4.59,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO PARAFUSO GALO 500G,4.69,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO PARAFUSO DE ARROZ E MILHO SEM GLUTÉN RENATA 500G,6.98,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRAO SEM GLUTEN BIFUM ORIENTAL 200G,13.98,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO INSTANTÂNEO LÁMEN GALINHA CAIPIRA VITARELLA 74.3G,1.69,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO INSTANTÂNEO NISSIN LÁMEN GALINHA CAIPIRA 85G,2.79,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO INSTANTÂNEO NISSIN LÁMEN CARNE 85G,2.79,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO INSTANTÂNEO NISSIN LÁMEN GALINHA 85G,2.79,https://www.redemix.com.br/macarrão#1
+Redemix,macarrão,MACARRÃO INSTANTÂNEO TALHARIM BOLONHESA NISSIN 99G,3.99,https://www.redemix.com.br/macarrão#1
+Mercantil,farinha,Farinha de Mandioca Arco Verde Branca 1Kg,6.59,https://www.mercantilatacado.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Mercantil,farinha,Farinha de Mandioca da Roça Branca 1Kg,4.89,https://www.mercantilatacado.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Mercantil,farinha,Farinha de Mandioca Boa Dmais Branca 1Kg,5.99,https://www.mercantilatacado.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Mercantil,farinha,Farinha de Mandioca Arco Verde Amarela 1Kg,6.75,https://www.mercantilatacado.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Mercantil,farinha,Farinha de Mandioca Boa Dmais Amarela 1Kg,5.79,https://www.mercantilatacado.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Hiperideal,farinha,Farinha Mandioca Arco Verde Branca 1kg ,8.89,https://www.hiperideal.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Hiperideal,farinha,Farinha Mandioca Arco Verde Amarela 1kg ,8.89,https://www.hiperideal.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Hiperideal,farinha,Farinha Mandioca Amarradinha Da Feira Branca 1kg ,8.49,https://www.hiperideal.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Hiperideal,farinha,Farinha Mandioca Boa Branca 1kg ,11.89,https://www.hiperideal.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Hiperideal,farinha,Farinha Mandioca Belladona Branca 1kg ,8.59,https://www.hiperideal.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Gbarbosa,farinha,Farinha de Mandioca GBarbosa Branca 1Kg,6.99,https://www.gbarbosa.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Gbarbosa,farinha,Farinha de Mandioca da Roça Branca 1Kg,5.49,https://www.gbarbosa.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Gbarbosa,farinha,Farinha de Mandioca Arco Verde Branca 1Kg,9.39,https://www.gbarbosa.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Gbarbosa,farinha,Farinha de Mandioca Boa Dmais Branca 1Kg,6.49,https://www.gbarbosa.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Gbarbosa,farinha,Farinha de Mandioca Boa Dmais Amarela 1Kg,6.99,https://www.gbarbosa.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Gbarbosa,farinha,Farinha de Mandioca Arco Verde Amarela 1Kg,9.49,https://www.gbarbosa.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Gbarbosa,farinha,Farinha de Mandioca Especial Tipo 1 Delícia da Copa Pacote 1kg,8.69,https://www.gbarbosa.com.br/farinha%20de%20mandioca?_q=farinha%20de%20mandioca&map=ft
+Paodeacucar,farinha,Farinha De Mandioca Torrada YOKI Pacote 500g,9.29,https://www.paodeacucar.com/busca?terms=farinha%20de%20mandioca
+Paodeacucar,farinha,Farinha de Mandioca Crua YOKI Pacote 500g,7.39,https://www.paodeacucar.com/busca?terms=farinha%20de%20mandioca
+Paodeacucar,farinha,Farinha de Mandioca Biju YOKI Pacote 500g,13.79,https://www.paodeacucar.com/busca?terms=farinha%20de%20mandioca
+Paodeacucar,farinha,Farinha de Mandioca Branca Deusa 500g,7.99,https://www.paodeacucar.com/busca?terms=farinha%20de%20mandioca
+Paodeacucar,farinha,Farinha de Mandioca Fina YOKI Pacote 1kg,14.99,https://www.paodeacucar.com/busca?terms=farinha%20de%20mandioca
+Paodeacucar,farinha,Farinha de Mandioca Tipo 1 Fina Da Terrinha Pacote 1kg,9.39,https://www.paodeacucar.com/busca?terms=farinha%20de%20mandioca
+Paodeacucar,farinha,Farinha de Mandioca Grossa YOKI Pacote 1kg,14.29,https://www.paodeacucar.com/busca?terms=farinha%20de%20mandioca
+Redemix,farinha,FARINHA DE MANDIOCA BRANCA COPIOBA ARCO VERDE 1KG,8.79,https://www.redemix.com.br/farinha%20de%20mandioca#1
+Redemix,farinha,FARINHA DE MANDIOCA BRANCA BOA D+ 1KG,6.79,https://www.redemix.com.br/farinha%20de%20mandioca#1
+Redemix,farinha,FARINHA DE MANDIOCA ARCO VERDE AMARELA 1KG,8.79,https://www.redemix.com.br/farinha%20de%20mandioca#1
+Redemix,farinha,FARINHA DE MANDIOCA BRANCA FARINHA BOA 1KG,9.98,https://www.redemix.com.br/farinha%20de%20mandioca#1
+Redemix,farinha,FARINHA DE MANDIOCA BRANCA AMARRADINHA DA FEIRA 1KG,7.98,https://www.redemix.com.br/farinha%20de%20mandioca#1
+Redemix,farinha,FARINHA MANDIOCA BELLADONA ESPECIAL BRANCA 1KG,7.98,https://www.redemix.com.br/farinha%20de%20mandioca#1
+Mercantil,açúcar,Refrigerante Coca-Cola s/ Açúcar Lata 350ml,3.59,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Energético Monster Ultra Violeta Zero Açúcar Lata 473ml,9.99,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Energético Monster Energy Zero Açúcar Lata 473ml,9.99,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Açúcar Cristal Bella 1Kg,4.15,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Açúcar Cristal Agrovale 1Kg,4.29,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Açúcar Cristal Bella In Natura 800g,3.49,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Açúcar Demerara Agrovale 1Kg,3.99,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Açúcar Demerara Bella 800g,3.89,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Pão Integral Dulce Natura Passas e Açúcar Mascavo Pacote 350g,6.49,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Chiclete Trident Hortelã s/ Açúcar 8g - Embalagem c/ 5 Unid,2.39,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Pão de Forma Dulce Natura Integral Zero Açúcar 350g,6.59,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Chiclete Trident Tutti-Frutti s/ Açúcar 8g - Embalagem c/ 5 Unid,2.39,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Gelatina Pó Royal Uva Zero Açúcar Pacote 12g,4.19,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Chiclete Trident Max Hortelã Fresca s/ Açúcar 16g Embalagem c/ 5 Unid,2.99,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Gelatina em Pó Royal Abacaxi Zero Açúcar Pacote 12g,4.19,https://www.mercantilatacado.com.br/açúcar
+Mercantil,açúcar,Porta Açúcar Plasútil Decora Tampa Rosca 1.8 Litros,14.79,https://www.mercantilatacado.com.br/açúcar
+Hiperideal,açúcar,Açúcar Cristal Caete 1kg ,4.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar Mascavo Tia Sônia 400g ,11.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar Cristal Bella 1kg ,4.79,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar União Demerara 1kg ,8.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar Demerara Bella 900g ,5.79,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar Refinado União 1kg ,8.49,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar Mascavo Kicaldo 1kg ,11.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar Claro Orgânico Native 1kg ,15.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar Coco Copra Vidro 350g ,54.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar Refinado União Orgânico 1kg ,11.39,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar Mascavo Organic 250g ,9.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Açúcar União Naturale 1kg ,9.29,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Refrigerante Coca Cola Sem Açúcar Lata 350ml ,3.49,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Chocolate Luckau Ao Leite Sem Glúten Sem Açúcar Sem Lactose 20g ,9.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Chocolate Luckau 70% Sem Glúten Sem Açúcar Sem Lactose 20g ,9.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Doce Diet House Fondant De Leite Com Goiabada Zero Açúcar Sem Glúten 250g ,24.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Doce Diet House Chocolate Cream Zero Açúcar Sem Glúten 250g ,24.99,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 2l ,7.69,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Refrigerante Coca Cola Sem Açúcar 1l ,5.79,https://www.hiperideal.com.br/açúcar
+Hiperideal,açúcar,Refrigerante Sprite Sem Açúcar Lata 350ml ,2.79,https://www.hiperideal.com.br/açúcar
+Gbarbosa,açúcar,Cereal Matinal Nesfit s/ Adição de Açúcares 220g,18.99,https://www.gbarbosa.com.br/açúcar
+Gbarbosa,açúcar,Suplemento Alimentar Líquido Reign Lemon Hdz Zero Açúcar Lata 473ml,9.99,https://www.gbarbosa.com.br/açúcar
+Gbarbosa,açúcar,Energético Monster Ultra Violeta Zero Açúcar Lata 473ml,9.99,https://www.gbarbosa.com.br/açúcar
+Gbarbosa,açúcar,Açúcar Refinado União 1Kg,8.49,https://www.gbarbosa.com.br/açúcar
+Gbarbosa,açúcar,Açúcar Refinado União Premium 1Kg,9.39,https://www.gbarbosa.com.br/açúcar
+Gbarbosa,açúcar,Açúcar Cristal Agrovale 1Kg,4.49,https://www.gbarbosa.com.br/açúcar
+Gbarbosa,açúcar,Açúcar Cristal GBarbosa Pacote 1Kg,4.99,https://www.gbarbosa.com.br/açúcar
+Gbarbosa,açúcar,Açúcar Demerara União 1Kg,7.99,https://www.gbarbosa.com.br/açúcar
+Paodeacucar,açúcar,Açúcar Refinado UNIÃO Pacote 1kg,5.29,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Refinado QUALITÁ Pacote 1Kg,4.49,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Refinado CARAVELAS Pacote 1kg,4.59,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Refinado Granulado  em Cubos UNIÃO Pote 250g,13.49,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Mascavo União 1kg,24.49,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Demerara Taeq Pacote 1kg,7.39,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Cristal QUALITÁ Pacote 1kg,4.69,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Orgânico Demerara NATIVE Pacote 1kg,9.99,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Refinado Light UNIÃO Fit Pacote 500g,6.19,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Claro Orgânico NATIVE Pacote 1kg,8.69,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,"Refrigerante sem Açúcar Coca-Cola Garrafa 1,5l",10.49,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Cristalçúcar UNIÃO Pacote 1kg,5.59,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Demerara Orgânico Taeq Pacote 1kg,8.49,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Refinado DA BARRA Pacote 1kg,5.19,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Refinado Granulado Premium UNIÃO Pacote 1kg,7.99,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Natural Demerara CARAVELAS Pacote 1kg,6.79,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Refrigerante sem Açúcar Coca-Cola Garrafa 600ml,5.99,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Cristal Premium Caravelas Pacote 1kg,4.39,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Cristal Orgânico Guarani Pacote 1kg,5.39,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Cristal Orgânico UNIÃO Pacote 1kg,8.89,https://www.paodeacucar.com/busca?terms=açúcar
+Paodeacucar,açúcar,Açúcar Mascavo Orgânico ORGANIC Pacote 500g,13.49,https://www.paodeacucar.com/busca?terms=açúcar
+Redemix,açúcar,AÇÚCAR CRISTAL BELLA 1KG,4.79,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,PACK REFRIGERANTE COCA-COLA SEM AÇÚCAR COM 6 LATAS 350ML,18.99,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,AÇÚCAR DEMERARA BELLA 800G,5.79,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,REFRIGERANTE COCA-COLA SEM AÇÚCAR 220ML,2.29,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,REFRIGERANTE COCA-COLA SEM AÇÚCAR 1.5L,7.49,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,REFRIGERANTE SPRITE LIMAO SEM ACUCAR LATA 350ML,2.99,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,AÇÚCAR MASCAVO BELLA 400G,7.99,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,REFRIGERANTE COCA-COLA SEM AÇÚCAR 1L,5.79,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,AÇÚCAR DEMERARA CAETÉ 1KG,5.99,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,AÇÚCAR REFINADO UNIÃO 1KG,8.99,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,CEREAL MATINAL ZERO ACUCAR NESFIT 220G,19.98,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,ENERGETICO RED BULL SEM ACUCAR TRADICIONAL LATA 250ML,10.49,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,GELEIA ITALIANA ZUEGG DE FRUTAS VERMELHAS SEM ACUCAR 220G,37.9,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,GELEIA ITALIANA ZUEGG MORANGO SEM ACUCAR 220G,37.9,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,GELEIA ITALIANA ZUEGG SEM ACUCAR 220G,37.9,https://www.redemix.com.br/açúcar#1
+Redemix,açúcar,GELEIA ITALIANA ZUEGG MIRTILO SEM ACUCAR 220G,37.9,https://www.redemix.com.br/açúcar#1
+Mercantil,sal,Sal Marinho Miramar Moído Pacote 1Kg,1.49,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Mercantil,sal,Sal Refinado Lebre 1Kg,2.19,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Mercantil,sal,Sal Norsal Almirante Moído 1Kg,1.69,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Mercantil,sal,Sal Lebre p/ Churrasco 1Kg,2.39,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Mercantil,sal,Sal do Himalaia Lebre Moído e Iodado Pacote 500g,10.59,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Mercantil,sal,Sal Grosso Aji-Sal Churrasco 500g,10.49,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Mercantil,sal,Sal de Parrilla Lebre Sachê 500g,7.09,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Mercantil,sal,Sal de Parrilla Kitano Triturado Churrasquear Frasco 500g,13.65,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Mercantil,sal,Sal Grosso Aji-Sal Churrasco 1Kg,19.39,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Mercantil,sal,Sal Refinado Lebre Caixa 0.8g c/ 1000 Unid,19.39,"https://www.mercantilatacado.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Hiperideal,sal,Sal Refinado Iodado Lebre 1kg ,2.29,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Churrasco Lebre 1kg ,3.19,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Moído Iodado Miramar 1kg ,1.59,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Rosa Fino Bombay 500g ,14.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Rosa Tia Sônia Himalaia 200g ,10.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Parrilla Gourmet Bombay 500g ,15.69,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal De Parrilla Casa De Mãe Alho Pote 500g ,18.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Rosa Grosso Bombay 500g ,14.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal De Parrilla Casa De Mãe Pimenta Do Reino Pote 500g ,19.79,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Parrilla Br Spices Classico Original 500g ,21.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal De Parrilla Puro Casa De Mãe Pote 500g ,18.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Parrilla Br Spices Com Chimichurri 300g ,21.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Parrilla Br Spices Para Carnes 330g ,22.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Sal Parrilla Brspices Chimichurri 1 04kg ,29.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Moedor De Sal Rosa Casa Mãe Himalaia 110g ,20.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Hiperideal,sal,Moedor Sal Marinho Bombay 100g ,23.99,"https://www.hiperideal.com.br/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and&query=/sal/sal&searchState"
+Gbarbosa,sal,Sal Refinado Cuisine&Co 1Kg,2.39,"https://www.gbarbosa.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Gbarbosa,sal,Sal Grosso p/ Churrasco Globo Grill Especial Pacote 1kg,2.49,"https://www.gbarbosa.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Gbarbosa,sal,Sal Grosso Cuisine&Co 1Kg,2.39,"https://www.gbarbosa.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Gbarbosa,sal,Sal Rosa do Himalaia Fino Bombay Herbs & Spices Pouch 500g,13.99,"https://www.gbarbosa.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Gbarbosa,sal,Sal de Parrilla Kitano Triturado Churrasquear Frasco 500g,17.99,"https://www.gbarbosa.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Gbarbosa,sal,Sal Rosa do Himalaia Cuisine&Co Pote 500g,12.9,"https://www.gbarbosa.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Gbarbosa,sal,Sal de Parrilla Bombay Herbs & Spices Gourmet Pouch 500g,13.99,"https://www.gbarbosa.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Gbarbosa,sal,Sal de Parrilla Cuisine&Co Alho Pote 250g,8.99,"https://www.gbarbosa.com.br/sal/sal?_q=sal&fuzzy=0&initialMap=ft&initialQuery=sal&map=category-3,ft&operator=and"
+Paodeacucar,sal,Sal Refinado CISNE Tradicional Pacote 1Kg,3.79,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Refinado LEBRE Pacote 1Kg,2.95,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Refinado Qualitá Pacote 1kg,2.69,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Refinado Light CISNE Pacote 500g,9.69,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Rosa do Himalaia Fino Bombay Herbs & Spices Pouch 500g,12.79,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Rosa do Himalaia com Moedor BR Spices Salt Selection Vidro 100g,20.49,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,"Sal de Parrilla Argentino Original BR Spices Churrasco Frasco 1,1kg",19.99,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal de Parrilla Argentino Original BR Spices Churrasco Frasco 500g,11.89,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Saleiro Cozinha CISNE 100g,5.39,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Marinho Grosso Tipo 1 Qualitá Pacote 1kg,4.19,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Marinho com Moedor Integral BR Spices Salt Selection Vidro 100g,20.99,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal de Parrilla Bombay Herbs & Spices Gourmet Pouch 500g,13.79,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Rosa do Himalaia Grosso Bombay Herbs & Spices Pouch 500g Refil,16.29,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Grosso para Churrasco CISNE Pacote 1kg,5.19,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal de Parrilla Lebre Pacote 500g,5.19,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Rosa do Himalaia Fino BR Spices Salt Selection Pouch 500g,13.79,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal de Parrilla Triturado Kitano Churrasquear Frasco 500g,13.85,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,"Sal Parrilla Br Spices Com Chimichurri 1,010 Kg",17.89,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal do Atacama Grosso com Moedor BR Spices Salt Selection Vidro 100g,19.79,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,"Sal de Parrilla BR Spices Churrasco Frasco 1,01kg",17.89,https://www.paodeacucar.com/busca?terms=sal
+Paodeacucar,sal,Sal Parrilla Br Spices Com Chimichurri 300G,19.99,https://www.paodeacucar.com/busca?terms=sal
+Redemix,sal,SAL REFINADO LEBRE 1KG,2.19,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL MOIDO IODADO MIRAMAR 1KG,1.49,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL MOÍDO MIRAMAR 1KG,10.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL DO ATACAMA FINO BR SPICES 250G,15.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL REFINADO LIGHT LEBRE 500G,8.39,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL ROSA DO HIMALAIA TIA SÔNIA 200G,10.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL PARRILLA BRSPICES CHIMICHURRI 1 04KG,29.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,AJI-SAL CHURRASCO PARRILLA 500G,25.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL GROSSO PARA CHURRASCO AJI-SAL 500G,11.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL DE PARRILLA PARA CHURRASCO BR SPICES 1.1KG,26.99,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL PARA CHURRASCO COM CHIMICHURRI PARRILLA BR SPICES 1KG,29.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL MARINHO MALDON 250G,69.9,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL GROSSO DO ATACAMA COM MOEDOR BR SPICES 100G,23.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL ROSA E PIMENTA DO REINO COM MOEDOR BR SPICES 90G,23.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Redemix,sal,SAL ROSA DO HIMALAIA COM MOEDOR BR SPICES 100G,23.98,https://www.redemix.com.br/mercearia/temperos-e-condimentos/sal/sal?O=OrderByTopSaleDESC&PS=18#2
+Mercantil,óleo,Óleo de Soja Soya Pet 900ml,8.89,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Óleo Misto Oliva Santa Isabel 500ml,15.29,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Óleo de Milho Liza Especiais 900ml,18.49,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Óleo de Canola Salada Pet 900ml,15.49,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Óleo de Girassol Liza Pet 900ml,20.89,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Óleo de Canola Liza Pet 900ml,15.99,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Óleo Composto de Soja Carmelita Lata 200ml,10.09,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Óleo Composto de Soja e Oliva Olívia Tradicional Pet 500ml,15.09,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Atum Sólido Crusoe Óleo 170g,9.89,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Sardinha 88 ao Óleo Lata 75g,6.79,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Atum Sólido Gomes da Costa em Óleo Lata 170g,11.09,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Atum em Pedaços Gomes da Costa em Óleo 170g,10.89,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Atum Ralado Gomes da Costa em Óleo Lata 170g,10.89,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Atum Ralado 88 em Óleo Lata 105g,7.99,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Mistura de Leite e Óleo Vegetal Damare Culinário 200g,2.69,https://www.mercantilatacado.com.br/óleo
+Mercantil,óleo,Pipoca Magrela Fit c/ Óleo de Coco 35g,3.15,https://www.mercantilatacado.com.br/óleo
+Hiperideal,óleo,Óleo Soja Soya 900ml ,8.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Finalizador Pantene Milagroso Leave In 95ml ,38.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Milho Liza 900ml ,17.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Canola Liza 900ml ,14.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Composto Lenas Girassol E Oliva 500ml ,18.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Girassol Liza 900ml ,18.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Canola Salada 900ml ,15.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Girassol Salada 900ml ,15.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Girassol Mazola 900ml ,19.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Milho Mazola 900ml ,19.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Móveis Peroba 200ml ,24.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Gergelim Kenko Torrado 100ml ,29.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo De Coco Copra Sem Sabor 200ml ,22.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Liza Algodão 900mll ,15.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Corporal Paixão Tentadora Ameixa Rubi Com Óleo De Amêndoas 100ml ,14.69,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Composto Lenas Cebola E Alho 350ml ,17.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Nutritivo Ox Nutre 120ml ,32.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Liza Bolos E Doces 500ml ,10.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Ox Finalizador Mari Maria Vita Glow 60ml ,51.99,https://www.hiperideal.com.br/óleo
+Hiperideal,óleo,Óleo Tresemmé Finalizador Brilho Lamelar 60ml ,44.79,https://www.hiperideal.com.br/óleo
+Gbarbosa,óleo,Óleo de Soja Soya Pet 900ml,8.79,https://www.gbarbosa.com.br/óleo
+Gbarbosa,óleo,Óleo de Soja Concórdia Tipo 1 Garrafa 900ml,7.79,https://www.gbarbosa.com.br/óleo
+Gbarbosa,óleo,Óleo de Milho Liza Especiais Tipo1 500ml,11.39,https://www.gbarbosa.com.br/óleo
+Gbarbosa,óleo,Óleo de Girassol Salada Pet 900ml,15.99,https://www.gbarbosa.com.br/óleo
+Gbarbosa,óleo,Óleo de Milho Liza Especiais 900ml,19.99,https://www.gbarbosa.com.br/óleo
+Gbarbosa,óleo,Óleo de Canola Salada Pet 900ml,16.99,https://www.gbarbosa.com.br/óleo
+Gbarbosa,óleo,Óleo de Milho Salada Pet 900ml,18.99,https://www.gbarbosa.com.br/óleo
+Gbarbosa,óleo,Óleo Misto Oliva Santa Isabel 500ml,14.99,https://www.gbarbosa.com.br/óleo
+Paodeacucar,óleo,Óleo de Soja LIZA Pet 900ml,7.99,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Soja Tipo 1 Qualitá Garrafa 900ml,7.69,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Girassol Tipo 1 Liza Especiais Garrafa 900ml,18.79,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo De Soja SOYA Garrafa 900ml,7.89,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Canola Tipo 1 Liza Especiais Garrafa 900ml,19.29,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Milho LIZA Pet 900ml,18.49,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Algodão Tipo 1 Liza Especiais Garrafa 900ml,17.29,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo Composto Maria Tradicional PET 500ml,16.29,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo Composto de Soja e Oliva Manteiga Maria Garrafa 500ml,16.99,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Coco Spray sem Sabor Copra Frasco 100ml,28.99,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Coco sem Sabor TAEQ Vidro 500ml,34.99,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Girassol QUALITÁ Pet 900ml,14.99,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Girassol SALADA Pet 900ml,15.99,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Oléo de Canola QUALITÁ Pet 900ml,14.99,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Soja Vitaliv Garrafa 900ml,7.69,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Milho SALADA Pet 900ml,18.29,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Azeite Português de Oliva Extra Virgem ANDORINHA Vidro 500ml,47.49,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Milho QUALITÁ Pet 900ml,17.29,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Azeite de Oliva Extra Virgem Clássico Português Gallo Vidro 500ml,36.99,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Soja COCAMAR Pet 900ml,7.69,https://www.paodeacucar.com/busca?terms=óleo
+Paodeacucar,óleo,Óleo de Canola SALADA Pet 900ml,15.99,https://www.paodeacucar.com/busca?terms=óleo
+Redemix,óleo,ÓLEO DE SOJA LIZA PET 900ML,8.99,https://www.redemix.com.br/óleo#1
+Redemix,óleo,ATUM RALADO ROBINSON CRUSOE OLEO 170G,9.49,https://www.redemix.com.br/óleo#1
+Redemix,óleo,SARDINHA COQUEIRO OLEO 125G,9.69,https://www.redemix.com.br/óleo#1
+Redemix,óleo,OLEO MILHO MAZOLA 900ML,20.99,https://www.redemix.com.br/óleo#1
+Redemix,óleo,OLEO EM GEL SEDA NUTRICAO VOLUMAO POWER 350ML,31.89,https://www.redemix.com.br/óleo#1
+Redemix,óleo,OLEO DE MILHO E ALGODAO LIZA FRITURAS ESPECIARIAS 500ML,10.98,https://www.redemix.com.br/óleo#1
+Redemix,óleo,OLEO MILHO E CANOLA LIZA PARA BOLO E DOCE 500ML,10.69,https://www.redemix.com.br/óleo#1
+Redemix,óleo,INSETICIDA AEROSOL RAID MULTI OLEO CITRONELA 420ML,19.68,https://www.redemix.com.br/óleo#1
+Redemix,óleo,OLEO COMPOSTO MARIA MANTEIGA 500ML,19.99,https://www.redemix.com.br/óleo#1
+Redemix,óleo,OLEO COMPOSTO OLIVA TRADICIONAL 500ML,18.99,https://www.redemix.com.br/óleo#1
+Redemix,óleo,OLEO COMPOSTO MARIA 500ML,19.99,https://www.redemix.com.br/óleo#1
+Redemix,óleo,OLEO ELSEVE GLICOLIC GLOSS 100ML,57.78,https://www.redemix.com.br/óleo#1
+Redemix,óleo,CREME PARA PENTEAR COM OLEO DE COCO BOOM DEFINICAO 1KG,35.79,https://www.redemix.com.br/óleo#1
+Redemix,óleo,KIT SHAMPOO 350ML E CONDICIONADOR 175ML DOVE RITUAL DE REPARACAO OLEO DE COCO E CURCUMA,40.49,https://www.redemix.com.br/óleo#1
+Mercantil,leite,Leite Uht Damare Integral Caixa 1l,4.69,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Mercantil,leite,Leite Líquido Natville Integral 1l,5.39,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Mercantil,leite,Leite Uht Betânia Integral Vitaminas 1l,5.19,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Mercantil,leite,Leite Uht Damare Desnatado Caixa 1l,4.69,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Mercantil,leite,Leite Uht Betânia Desnatado Vitaminas 1l,5.99,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Mercantil,leite,Leite Líquido Betânia Semi Desnatado Zero Lactose 1l,5.95,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Mercantil,leite,Leite UHT Natville Desnatado 1l,5.59,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Mercantil,leite,Leite Uht Damare Integral Caixa 1l,4.69,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Mercantil,leite,Leite em Pó Betânia Integral 200g,6.59,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Mercantil,leite,Leite Líquido Natville Integral 1l,5.39,"https://www.mercantilatacado.com.br/leite-liquido/leite%20liquido?_q=leite%20liquido&fuzzy=0&initialMap=ft&initialQuery=leite%20liquido&map=category-2,ft&operator=and"
+Hiperideal,leite,Leite Longa Vida Betânia Integral Com Tampa 1l ,4.89,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Pó Integral Ninho Pouch 750g ,39.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Longa Vida Itambé Integral 1l ,6.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Pó Integral Ninho Lata 380g ,21.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Longa Vida Leitíssimo Integral 1l ,9.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Longa Vida Piracanjuba Integral C T 1l ,7.19,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Longa Vida Piracanjuba Zero Lactose 1l ,8.79,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Longa Vida Leitíssimo Desnatado 1l ,9.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Pó Integral Itambé Pacote 200g ,9.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Longa Vida Piracanjuba Desnatado C T 1l ,7.19,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Pó Integral Itambé Pouch 750g ,37.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Pó Integral Betania Pacote 200g ,7.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Em Pó Instantêneo Desnatado La Serenissima 200g ,10.69,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Pó Desnatado Itambé Sachê 200g ,8.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Pó Molico Desnatado 280g ,28.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Longa Vida Leitíssimo Zero Lactose 1l ,9.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Longa Vida Piracanjuba Semi Desnatado 1l ,7.19,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Longa Vida Leitíssimo Semi Desnatado Zero Lactose 1l ,9.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Pó Integral Betania Pouch 750g ,31.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Hiperideal,leite,Leite Em Pó Integral Instantâneo Ninho Lata 380g ,26.99,"https://www.hiperideal.com.br/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-3,ft&operator=and&query=/leite/leite&searchState"
+Gbarbosa,leite,Leite Líquido Natville Integral 1l,5.79,"https://www.gbarbosa.com.br/leite-liquido/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-2,ft&operator=and"
+Gbarbosa,leite,Leite Uht Betânia Integral Vitaminas 1l,4.89,"https://www.gbarbosa.com.br/leite-liquido/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-2,ft&operator=and"
+Gbarbosa,leite,Leite Líquido Piracanjuba Zero Lactose 1l,5.99,"https://www.gbarbosa.com.br/leite-liquido/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-2,ft&operator=and"
+Gbarbosa,leite,Leite Uht Betânia Desnatado Vitaminas 1l,4.89,"https://www.gbarbosa.com.br/leite-liquido/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-2,ft&operator=and"
+Gbarbosa,leite,Leite Uht GBarbosa Integral Caixa 1l,5.79,"https://www.gbarbosa.com.br/leite-liquido/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-2,ft&operator=and"
+Gbarbosa,leite,Leite Uht Damare Integral Caixa 1l,5.69,"https://www.gbarbosa.com.br/leite-liquido/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-2,ft&operator=and"
+Gbarbosa,leite,Leite Uht Damare Desnatado Caixa 1l,5.69,"https://www.gbarbosa.com.br/leite-liquido/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-2,ft&operator=and"
+Gbarbosa,leite,Leite Líquido Ninho Vitaminado Integral 1l,8.99,"https://www.gbarbosa.com.br/leite-liquido/leite?_q=leite&fuzzy=0&initialMap=ft&initialQuery=leite&map=category-2,ft&operator=and"
+Paodeacucar,leite,Pack Leite Fermentado Desnatado Yakult Frasco 480g 6 Unidades,13.29,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Pack Leite Fermentado Desnatado Yakult 40 Frasco 480g 6 Unidades,14.9,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Pack Leite Fermentado Desnatado Yakult 40 Light Frasco 480g 6 Unidades,14.49,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite UHT Integral Qualitá Caixa com Tampa 1l,5.49,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite NINHO Integral 1L,7.99,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Longa Vida Integral  ITALAC 1 Litro,6.09,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite UHT Integral Piracanjuba Caixa com tampa 1L,6.09,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite UHT Integral Paulista Caixa com Tampa 1l,6.49,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Longa Vida Integral DÁLIA 1 Litro,4.99,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite UHT Integral Jussara Caixa com Tampa 1l,5.49,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Longa Vida Integral PARMALAT 1 Litro,5.99,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Semi Desnatado NINHO Levinho 1L,7.69,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite UHT Integral Parmalat Garrafa 1 Litro,6.09,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite UHT Semidesnatado Zero Lactose Piracanjuba Caixa com Tampa 1L,6.99,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Longa Vida Semidesnatado QUALITÁ 1 Litro,5.49,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Longa Vida Zero Lactose Semidesnatado TAEQ 1 Litro,5.99,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Longa Vida Desnatado QUALITÁ 1 Litro,5.49,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Desnatado MOLICO 1L,7.69,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Longa Vida Semidesnatado ITALAC 1 Litro,6.09,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite UHT Integral DÁLIA 1 Litro,5.69,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Creme de Leite Nestlé 200g,5.49,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Pasteurizado Homogeneizado Tipo A Integral Fazenda Bela Vista Garrafa 1l,8.39,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite UHT Semidesnatado Piracanjuba Caixa com Tampa 1l,6.19,https://www.paodeacucar.com/busca?terms=leite
+Paodeacucar,leite,Leite Desnatado Piracanjuba 1L,6.19,https://www.paodeacucar.com/busca?terms=leite
+Redemix,leite,LEITE LONGA VIDA DESNATADO LEITISSIMO 1L,9.99,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Redemix,leite,LEITE LONGA VIDA ZERO LACTOSE BETANIA 1L,7.99,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Redemix,leite,LEITE LONGA VIDA DESNATADO ITAMBE 1L,5.99,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Redemix,leite,LEITE LONGA VIDA DESNATADO PIRACANJUBA COM TAMPA 1L,7.99,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Redemix,leite,LEITE LONGA VIDA DESNATADO DAMARE 1L,6.89,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Redemix,leite,LEITE LONGA VIDA SEMI DESNATADO NINHO LEVINHO 1L,9.98,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Redemix,leite,LEITE ZERO LACTOSE MOLICO COM PROTEINA 1LITRO,13.98,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Redemix,leite,LEITE ZERO LACTOSE MOLICO 1LITRO,11.99,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Redemix,leite,LEITE LONGA VIDA DESNATADO MOLICO 1L,9.99,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Redemix,leite,LEITE SEMIDESNATADO LEITISSIMO UHT ZERO LACTOSE 1LITRO,11.49,https://www.redemix.com.br/mercearia/leites/liquido/leite?O=OrderByTopSaleDESC&PS=18#1
+Mercantil,pão,Pão de Forma Limiar Tradicional 400g,5.19,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Queijo Forno de Minas Tradicional 400g,15.99,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Forma Limiar Integral 500g,9.19,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Forma Limiar 500g,7.49,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão Francês Assado,0.78,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Forma Limiar Integral 400g,6.79,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Forma Limiar Fibra Passas 350g,7.09,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Leite Assado Fabricação Própria,0.87,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Forma Limiar Milho c/ Cenoura 350g,5.05,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Forma Limiar Integral Multigrãos 400g,8.59,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Hambúrguer Limiar Tradicional 200g,3.19,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Forma Plusvita Original 480g,12.29,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Alho Zinho Tradicional 300g,14.99,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Queijo Forno de Minas Formato Waffer 200g,13.19,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão de Queijo Forno de Minas Coquetel Congelado 1Kg,34.99,https://www.mercantilatacado.com.br/pão
+Mercantil,pão,Pão Integral Dulce Natura Pacote 500g,7.65,https://www.mercantilatacado.com.br/pão
+Hiperideal,pão,Pão Artesanal Limiar Milho 1 Unidade 60g ,1.26,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Baguete Limiar Parmesão 1 Unidade 90g ,1.89,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Baguete Italiana Limiar Integral 1 Unidade 100g ,2.1,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Artesanal Limiar Batata 1 Unidade 60g ,1.26,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Artesanal Limiar Linhaça 1 Unidade 40g ,0.84,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Baguete Italiana Limiar Tradicional 1 Unidade 90g ,1.89,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Artesanal Limiar Passas 1 Unidade 40g ,0.84,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Artesanal Limiar Aveia 1 Unidade 40g ,0.84,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Artesanal Limiar Australiano 1 Unidade 40g ,0.84,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão De Queijo Casa De Mãe Tradicional 300g ,9.99,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Forma Integral Wickbold 5 Zeros Sem Lactose 400g ,9.99,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Baguete Limiar Tradicional 1 Unidade 160g ,3.36,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Baguete Limiar Integral 1 Unidade 100g ,2.1,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Forma Tradicional Bauducco 390g ,8.99,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Forma Wickbold 5 Zeros Sem Lactose 350g ,9.99,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Bisnaguinha Bauducco 260g ,9.99,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Forma Integral Bauducco 390g ,10.99,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Forma Integral Bauducco Multigrãos 390g ,11.99,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Hamburguer Bauducco 200g ,7.99,https://www.hiperideal.com.br/pão
+Hiperideal,pão,Pão Queijo Forno Minas Waffle Assado 200g ,15.9,https://www.hiperideal.com.br/pão
+Gbarbosa,pão,Pão Francês Fabricação Própria,1.27,https://www.gbarbosa.com.br/pão
+Gbarbosa,pão,Pão Francês Integral Assado Fabricação Própria,1.5,https://www.gbarbosa.com.br/pão
+Gbarbosa,pão,Pão Francês c/Queijo Fabricação Própria,3.0,https://www.gbarbosa.com.br/pão
+Gbarbosa,pão,Pão de Forma Limiar 500g,7.9,https://www.gbarbosa.com.br/pão
+Gbarbosa,pão,Pão de Forma Plusvita Original 480g,14.9,https://www.gbarbosa.com.br/pão
+Gbarbosa,pão,Pão de Forma Bauducco Tradicional 390g,11.9,https://www.gbarbosa.com.br/pão
+Gbarbosa,pão,Pão de Forma Bauducco Integral 390g,14.9,https://www.gbarbosa.com.br/pão
+Gbarbosa,pão,Pão de Forma Fabricação Própria 500g,5.99,https://www.gbarbosa.com.br/pão
+Paodeacucar,pão,Pão de Forma Tradicional Pullman 480g,8.89,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão de Forma Original Pullman Artesano Pacote 500g,11.99,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão Frances 50G,1.09,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão De Forma SEVEN BOYS Pacote 450g,7.99,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Bisnaguinha Original PANCO Pacote 300g,10.49,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão de Forma Tradicional Qualitá Pacote 400g,6.29,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão de Forma Integral Wickbold Viva Integralmente Premium Pacote 450g,10.9,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Bisnaguinha Egg Sponge PANCO Pacote 250g,14.9,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão de Forma Tradicional Bauducco Pacote 390g,7.49,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão Caseiro Milho Panco Pacote 500g,13.29,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão de Forma Integral Pullman Artesano Pacote 500g,14.79,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão na Chapa Pullman Artesano Pacote 500g,14.79,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,"Pão de Forma Integral Aveia, Linhaça, Chia e Quinoa Zero Lactose Wickbold 5 Zeros Pacote 400g",10.29,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão Integral Castanha-do-Pará & Quinoa Wickbold Grão Sabor Pacote 350g,14.79,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão Bisnaguinha Original Pullman Artesano Pouch 300g,8.89,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão de Batata CASA VICTORIANA 170g,18.9,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão Integral Castanha-do-Pará & Quinoa Nutrella Pacote 350g,13.29,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Croissant Casa Victoriana Pacote 250g,19.9,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão Integral Castanha-do-Pará e Quinoa Wickbold Grão Sabor Pacote 450g,16.9,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão de Forma Tradicional Visconti Pacote 400g,6.99,https://www.paodeacucar.com/busca?terms=pão
+Paodeacucar,pão,Pão de Forma Integral Qualitá Pacote 400g,7.89,https://www.paodeacucar.com/busca?terms=pão
+Redemix,pão,PÃO DE LEITE 1 UNIDADE 60G,1.02,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO DE MILHO 1 UNIDADE 60G,1.02,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO FRANCES 1 UNIDADE 60G,1.02,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO ARTESANO ORIGINAL PLUSVITA 500G,17.98,https://www.redemix.com.br/pão#1
+Redemix,pão,PAO FORMA LIMIAR TRADICIONAL 400G,6.49,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO INTEGRAL LIMIAR MULTIGRÃOS 400G,9.98,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO BISNAGUITO PLUSVITA 300G,12.29,https://www.redemix.com.br/pão#1
+Redemix,pão,PAO QUEIJO RITA BORGES TRADICIONAL 400G,19.9,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO HOT DOG SOL NASCENTE 450G,8.98,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO HAMBÚRGUER SOL NASCENTE 300G,6.75,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO ARTESANO INTEGRAL PLUSVITA 500G,16.98,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO CROCANTÍSSIMO PLUSVITA QUEIJO CEBOLA 40G,2.98,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO HOT DOG 1 UNIDADE 60G,1.02,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO INTEGRAL LIMIAR FORMA 500G,10.59,https://www.redemix.com.br/pão#1
+Redemix,pão,PÃO INTEGRAL PASSAS FIBRAS LIMIAR 400G,7.98,https://www.redemix.com.br/pão#1
+Mercantil,café,Café em Cápsulas au Lait Nescafé Dolce Gusto Caixa 100g c/ 10 Unid,22.59,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café em Cápsulas Nestlé Dolce Gusto Espresso 60g c/ 10 Uniid,22.09,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café em Cápsula Nescafé Dolce Gusto Torrado e Moído Caffé Matinal Caixa 80g c/ 10 Unid de 8g Cada,20.95,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café em Pó Santa Clara Torrado e Moído a Vácuo 250g,18.79,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café 3 Corações Torrado e Moído a Vácuo Tradicional Pacote 250g,16.89,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café Maratá a Vácuo 250g,19.79,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café Melitta Tradicional a Vácuo 250g,18.89,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café Pilão Tradicional a Vácuo 250g,18.89,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café Santa Clara a Vácuo Descafeinado 250g,35.99,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café em Pó 3 Corações Gourmet Torrado e Moído Dark Roast Pacote 250g,25.9,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café Solúvel Maratá Tradicional Sachê 50g,5.99,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café Solúvel Nescafé Descafeinado Sachê 40g,11.99,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café Torrado e Moído Santa Clara Gourmet Chapada Diamantina Pacote 250g,28.59,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café em Pó 3 Corações Gourmet Torrado e Moído Sul de Minas Pacote 250g,28.59,https://www.mercantilatacado.com.br/café
+Mercantil,café,Café Mellita Descafeinado 250g,30.22,https://www.mercantilatacado.com.br/café
+Hiperideal,café,Café Torrado E Moído Lor Imola 250g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Em Cápsula Lor Avelã 52g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Em Cápsula Lor Brazil 52g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Santa Clara Vácuo 250g ,17.89,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Pilão Espresso 12 Cápsulas 52g ,24.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Pilão Espresso 10 Cápsulas 52g ,24.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Lor Estremo Lungo Cápsulas 52g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Em Cápsula Lor Chocolate 52g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Lor Columbia Cápsulas 52g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Lor Forza Cápsulas 52g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Lor Sontuoso Cápsulas 52g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Pilão Lungo 8 Cápsulas 52g ,24.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Em Cápsula Lor Imola 52g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Torrado E Moído Lor Equilibrado Doy Bag 250g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Torrado E Moído Lor Intenso Sachê 250g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Torrado E Moído Lor Delicado Sachê 250g ,29.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Cappuccino Lor Chocolate 156.8g ,19.99,https://www.hiperideal.com.br/café
+Hiperideal,café,"Café Cappuccino Lor Caramelo 162,64g ",19.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Cappuccino Melitta Chocolate Com Avelã 200g ,18.99,https://www.hiperideal.com.br/café
+Hiperideal,café,Café Melitta Especial 500g ,56.99,https://www.hiperideal.com.br/café
+Gbarbosa,café,Café em Cápsula Nescafé Farmers Origins Andes Caixa 44g,26.19,https://www.gbarbosa.com.br/café
+Gbarbosa,café,Café em Cápsula Nescafé Espresso Farmers Origins Colômbia Caixa 44g com 10 Unid,24.99,https://www.gbarbosa.com.br/café
+Gbarbosa,café,Café em Cápsula Nescafé Nespresso Farmers Origins Brazil Lungo Caixa 44g com 10 Unid,24.99,https://www.gbarbosa.com.br/café
+Gbarbosa,café,Café em Pó Maratá a Vácuo 250g,16.99,https://www.gbarbosa.com.br/café
+Gbarbosa,café,Café em Pó Pilão Tradicional a Vácuo 250g,17.19,https://www.gbarbosa.com.br/café
+Gbarbosa,café,Café em Pó Melitta Tradicional Torrado e Moído a Vácuo 250g,17.19,https://www.gbarbosa.com.br/café
+Gbarbosa,café,Café em Pó Pilão Torrado e Moído Extra Forte a Vácuo 250g,17.19,https://www.gbarbosa.com.br/café
+Gbarbosa,café,Café em Pó Melitta Torrado e Moído Tradicional Pouch 250g,17.19,https://www.gbarbosa.com.br/café
+Paodeacucar,café,Chococino em Cápsula Nescafé Dolce Gusto Caixa 160g 10 Unidades,24.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,"Café com Leite em Cápsula Latte Macchiato Nescafé Dolce Gusto Caixa 112,5g 10 Unidades",24.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Tradicional 3 Corações Pacote 500g,35.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído a Vácuo Tradicional Pilão Pacote 500g,39.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Tradicional Melitta Caixa 500g,39.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Extraforte Pilão Pacote 500g,34.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Tradicional União Pacote 500g,33.49,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído a Vácuo Tradicional Pilão Pacote 250g,21.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Sul de Minas 3 Corações Gourmet Pacote 250g,26.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Tradicional 3 Corações Pacote 250g,20.49,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Mogiana Paulista 3 Corações Gourmet Pacote 250g,26.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Tradicional Pilão Pacote 250g,21.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Extraforte 3 Corações Pacote 500g,35.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café em Cápsula Torrado e Moído Espresso Colômbia Nescafé Farmers Origins Caixa 44g 10 Unidades,24.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café em Cápsula Torrado e Moído Lungo Brazil Nescafé Farmers Origins Caixa 44g 10 Unidades,24.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Extraforte Melitta Caixa 500g,39.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Tradicional Melitta Caixa 250g,21.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído Orgânico Orfeu Caixa 250g,29.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café em Cápsula Torrado e Moído Espresso Sontuoso Lor Caixa 52g 10 Unidades,26.99,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído a Vácuo Tradicional Qualitá Pacote 250g,18.29,https://www.paodeacucar.com/busca?terms=café
+Paodeacucar,café,Café Torrado e Moído a Vácuo Tradicional 3 Corações Pacote 500g,38.99,https://www.paodeacucar.com/busca?terms=café
+Redemix,café,CAFÉ TORRADO E MOIDO MELITTA TRADICIONAL 250G,20.99,https://www.redemix.com.br/café#1
+Redemix,café,PÃO BISNAGUITO PLUSVITA 300G,12.29,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ TORRADO MOÍDO SANTA CLARA EXTRA FORTE VÁCUO 250G,20.89,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ SANTA CLARA PREMIUM VÁCUO 250G,22.19,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ SOLÚVEL MELITA SACHÊ 40G,7.99,https://www.redemix.com.br/café#1
+Redemix,café,CAFE TORRADO E MOIDO MELITTA REGIOES BRASILEIRA SUL DE MINAS 250G,35.99,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ SOLÚVEL NESCAFÉ TRADICIONAL VIDRO 100G,29.99,https://www.redemix.com.br/café#1
+Redemix,café,CREPIOCA DE COTTAGE,2.29,https://www.redemix.com.br/café#1
+Redemix,café,QUEIJO AZUL E CAFÉ VERSOS DE MINAS CRUZILIA FRACIONADO 1 PEDAÇO 400G,67.96,https://www.redemix.com.br/café#1
+Redemix,café,CAFE TORRADO E MOIDO LOR CHOCOLATE ESPRESSO CAPSULA 52G,29.99,https://www.redemix.com.br/café#1
+Redemix,café,CAFE CARRARO BAUNILHA CAPS 55G,19.9,https://www.redemix.com.br/café#1
+Redemix,café,CAFE CARRARO AVELA CAPS 55G,19.9,https://www.redemix.com.br/café#1
+Redemix,café,CAFE CARRARO CARAMELO CAPS 55G,19.9,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ SOLÚVEL NESCAFÉ INTENSIDADE MAXIMA 100G,39.99,https://www.redemix.com.br/café#1
+Redemix,café,CAFE PILAO TRADICIONAL SACHE 250G,21.99,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ CARRARO DESCAFEINADO CAPS 55G,19.9,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ CARRARO RISTRETTO CAPS 55G,19.9,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ CARRARO DOLCE ARABICA CAPS 55G,19.9,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ CARRARO INTENSO CAPS 55G,19.9,https://www.redemix.com.br/café#1
+Redemix,café,CAFÉ CARRARO GRAN CREMA CAPS 55G,19.9,https://www.redemix.com.br/café#1
+Redemix,café,PORTA FILTRO DE CAFE SANREMO PRETO 103,17.5,https://www.redemix.com.br/café#1
+Redemix,café,CAFE TORRADO E MOIDO SANTA CLARA CERRADO MINEIRO PACK 250G,29.75,https://www.redemix.com.br/café#1
+Redemix,café,CAFE TORRADO E MOIDO SANTA CLARA ORGANICO PACK 250G,29.75,https://www.redemix.com.br/café#1
+Redemix,café,CAFE TORRADO MOIDO DESCAFEINADO PILAO 250G,29.99,https://www.redemix.com.br/café#1
+Redemix,café,CAFE LOR EXPRESSO VANILLA CAPSULAS 52G,29.99,https://www.redemix.com.br/café#1
+Redemix,café,CAFE LOR EXPRESSO CARAMELO CAPSULAS 52G,29.99,https://www.redemix.com.br/café#1
+Redemix,café,COADOR PARA CAFE DONA JULIA,10.48,https://www.redemix.com.br/café#1
+Mercantil,manteiga,Manteiga Natville 500g,18.99,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Manteiga Davaca 500g,26.79,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Manteiga Davaca c/ Sal Pote 200g,12.99,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Manteiga Natville c/ Sal 200g,10.69,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Manteiga Davaca Zero Lactose c/ Sal 200g,13.99,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Manteiga Davaca s/ Sal 200g,12.35,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Manteiga Regina c/ Sal 200g,15.4,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Manteiga Regina Extra s/ Sal 200g,15.4,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Manteiga Regina Tablete 200g,15.4,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Margarina Sabor Manteiga Claybom c/ Sal Pote 500g,7.29,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Margarina Becel Manteiga c/ Sal Pote 500g,13.49,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Creme Vegetal de Palma Jayna Sabor Manteiga da Terra 500g,21.55,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Margarina Claybom Sabor Manteiga 250g,3.9,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Papel Manteiga Theoto 30 x 5cm c/ 5 Metros,10.69,https://www.mercantilatacado.com.br/manteiga
+Mercantil,manteiga,Creme Vegetal de Palma Jayna Sabor Manteiga da Terra 200g,10.69,https://www.mercantilatacado.com.br/manteiga
+Hiperideal,manteiga,Manteiga Davaca Com Sal 500g ,29.99,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Davaca Com Sal 200g ,13.39,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga President Com Sal 200g ,15.99,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Aviação Com Sal 500g ,38.89,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga President Tablete Sem Sal 200g ,15.89,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Regina Tablete Sem Sal 200g ,14.69,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Davaca Sem Lactose 200g ,15.89,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Aviação Com Sal 200g ,18.89,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Morro Alto Com Sal 500g ,28.99,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Tirolez Com Sal 500g ,39.99,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Regina Com Sal 200g ,14.69,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Davaca Sem Sal 200g ,13.39,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Aviação Lata 200g ,24.89,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Galbani Sem Sal 200g ,15.99,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Coopag Com Sal 500g ,29.89,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Galbani Com Sal 200g ,15.99,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Aviação Tablete Com Sal 200g ,17.99,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Galbani Tablete Sem Sal 200g ,15.99,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Ghee Dom Afonso Sal Rosa 200g ,43.99,https://www.hiperideal.com.br/manteiga
+Hiperideal,manteiga,Manteiga Tirolez Tablete Com Sal  200g ,18.49,https://www.hiperideal.com.br/manteiga
+Gbarbosa,manteiga,Manteiga Natville 500g,23.99,https://www.gbarbosa.com.br/manteiga
+Gbarbosa,manteiga,Manteiga Davaca 500g,23.99,https://www.gbarbosa.com.br/manteiga
+Gbarbosa,manteiga,Manteiga Itacolomy Comum c/ Sal Pote 500g,31.99,https://www.gbarbosa.com.br/manteiga
+Gbarbosa,manteiga,Manteiga Natville c/ Sal 200g,11.89,https://www.gbarbosa.com.br/manteiga
+Gbarbosa,manteiga,Manteiga Davaca c/ Sal Pote 200g,12.99,https://www.gbarbosa.com.br/manteiga
+Gbarbosa,manteiga,Manteiga Cuisine&Co c/ Sal Pote 500g,24.99,https://www.gbarbosa.com.br/manteiga
+Gbarbosa,manteiga,Manteiga Elegê com Sal 200g,14.69,https://www.gbarbosa.com.br/manteiga
+Gbarbosa,manteiga,Manteiga Elegê com Sal 500g,27.99,https://www.gbarbosa.com.br/manteiga
+Paodeacucar,manteiga,Manteiga com Sal Aviação Pote 200g,17.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga de Primeira Qualidade com Sal Aviação Pote 500g,37.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra com Sal Président Gastronomique 200g,17.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra com Sal Aviação 200g,16.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga de Primeira Qualidade com Sal Tirolez Pote 200g,16.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Margarina Cremosa com Sal Qualy Pote 500g,8.99,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra com Sal Qualitá 200g,12.86,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga com Sal Batavo 200g,16.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra sem Sal Aviação 200g,16.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga sem Sal Batavo 200g,16.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra sem Sal Danone Pote 200g,14.49,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra com Sal La Serenissima 200g,15.79,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra com Sal Aviação 100g,8.19,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga de Primeira Qualidade com Sal Qualitá Pote 500g,35.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra sem Sal Qualitá 200g,12.86,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra sem Sal Président Gastronomique 200g,17.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra sem Sal La Serenissima 200g,15.79,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Comum com Sal Président La Motte Pote 250g,34.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra com Sal Batavo Pote 500g,39.9,https://www.paodeacucar.com/busca?terms=manteiga
+Paodeacucar,manteiga,Manteiga Extra com Sal Galbani Pote 200g,14.49,https://www.paodeacucar.com/busca?terms=manteiga
+Redemix,manteiga,MANTEIGA DAVACA COM SAL 200G,13.39,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA DAVACA COM SAL 500G,29.98,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA TIROLEZ COM SAL POTE 500G,39.9,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA DAVACA SEM SAL 200G,13.39,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA VIDA VEG CASTANHA CAJU 200G,19.98,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA AVIACAO POTE 500G,38.9,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA BUFALISSIMA 200G,16.29,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA AVIACAO TABLETE COM SAL 200G,17.79,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA COM SAL TIROLEZ 200G,18.49,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA DAVACA SEM LACTOSE 200G,15.89,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA BUFALA BOM DESTINO 200G,15.99,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA GHEE LEVIORA TRADICIONAL 200G,39.9,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA GHEE LEVIORA SAL HIMALAIA 200G,39.9,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA AVIACAO POTE 200G,18.89,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA BASEL 500G,36.98,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Redemix,manteiga,MANTEIGA TIROLEZ COM SAL TABLETE 200G,18.49,https://www.redemix.com.br/frios-e-laticinios/manteiga-e-margarina/manteiga/manteiga?O=OrderByTopSaleDESC&PS=18#1
+Mercantil,banana,Banana Prata,1.12,"https://www.mercantilatacado.com.br/hortifruti/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and"
+Mercantil,banana,Banana da Terra,1.98,"https://www.mercantilatacado.com.br/hortifruti/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and"
+Mercantil,banana,Banana DÁgua,0.62,"https://www.mercantilatacado.com.br/hortifruti/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and"
+Hiperideal,banana,Banana Prata 1 Unidade 130g ,1.17,"https://www.hiperideal.com.br/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and&query=/hortifruti/banana&searchState"
+Hiperideal,banana,Banana Terra 1 Unidade 250g ,2.25,"https://www.hiperideal.com.br/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and&query=/hortifruti/banana&searchState"
+Hiperideal,banana,Banana Nanica 1 Unidade 180g ,1.26,"https://www.hiperideal.com.br/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and&query=/hortifruti/banana&searchState"
+Hiperideal,banana,Banana Maça 1 Unidade 120g ,1.08,"https://www.hiperideal.com.br/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and&query=/hortifruti/banana&searchState"
+Hiperideal,banana,Banana Peixonauta 1kg ,11.99,"https://www.hiperideal.com.br/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and&query=/hortifruti/banana&searchState"
+Gbarbosa,banana,Banana Prata,1.71,"https://www.gbarbosa.com.br/hortifruti/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and"
+Gbarbosa,banana,Banana Anã/Nanica,2.3,"https://www.gbarbosa.com.br/hortifruti/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and"
+Gbarbosa,banana,Banana Maçã,1.15,"https://www.gbarbosa.com.br/hortifruti/banana?_q=banana&fuzzy=0&initialMap=ft&initialQuery=banana&map=category-1,ft&operator=and"
+Paodeacucar,banana,Banana Nanica Granel 800g (Aprox. 3 a 4 Unid),7.19,https://www.paodeacucar.com/categoria/alimentos/hortifruti/frutas/banana?s=relevance&p=1
+Paodeacucar,banana,Banana Maçã Granel 400g (Aprox. 5 a 6 Unid),7.56,https://www.paodeacucar.com/categoria/alimentos/hortifruti/frutas/banana?s=relevance&p=1
+Redemix,banana,BANANA TERRA 1 UNIDADE 310G,2.78,https://www.redemix.com.br/hortifruti/frutas/banana?O=OrderByTopSaleDESC&PS=18#1
+Redemix,banana,BANANA DA PRATA 1 UNIDADE 160G,1.6,https://www.redemix.com.br/hortifruti/frutas/banana?O=OrderByTopSaleDESC&PS=18#1
+Redemix,banana,BANANA DAGUA 1 UNIDADE 180G,1.26,https://www.redemix.com.br/hortifruti/frutas/banana?O=OrderByTopSaleDESC&PS=18#1
+Redemix,banana,BANANA MACA 1 UNIDADE 140G,1.26,https://www.redemix.com.br/hortifruti/frutas/banana?O=OrderByTopSaleDESC&PS=18#1
+Mercantil,tomate,Tomate Longa Vida,1.6,"https://www.mercantilatacado.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Mercantil,tomate,Tomate Sweet Grape Naturalmente Doce 180g,13.19,"https://www.mercantilatacado.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Hiperideal,tomate,Tomate Salada 1 Unidade 190g ,2.09,"https://www.hiperideal.com.br/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and&query=/hortifruti/tomate&searchState"
+Hiperideal,tomate,Tomate Rasteiro 1 Unidade 190g ,1.71,"https://www.hiperideal.com.br/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and&query=/hortifruti/tomate&searchState"
+Hiperideal,tomate,Tomate Uva Caixa 180g ,5.99,"https://www.hiperideal.com.br/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and&query=/hortifruti/tomate&searchState"
+Hiperideal,tomate,Tomate Cereja Rama 200g ,6.99,"https://www.hiperideal.com.br/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and&query=/hortifruti/tomate&searchState"
+Hiperideal,tomate,Tomate Cereja Trebeschi 300g ,10.98,"https://www.hiperideal.com.br/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and&query=/hortifruti/tomate&searchState"
+Hiperideal,tomate,Tomate Sweet Grape Trebeschi 300g ,14.99,"https://www.hiperideal.com.br/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and&query=/hortifruti/tomate&searchState"
+Hiperideal,tomate,Tomate Salada Trebeschi Sensations 300g ,13.99,"https://www.hiperideal.com.br/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and&query=/hortifruti/tomate&searchState"
+Gbarbosa,tomate,Tomate,1.74,"https://www.gbarbosa.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Gbarbosa,tomate,Tomate Grape 180gBrancoCaixa 100g,8.99,"https://www.gbarbosa.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Gbarbosa,tomate,Tomate Bombom Natural da Horta 180g,5.99,"https://www.gbarbosa.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Gbarbosa,tomate,Tomate Cereja,11.5,"https://www.gbarbosa.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Gbarbosa,tomate,Tomate Italiano,1.75,"https://www.gbarbosa.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Gbarbosa,tomate,Tomate Cereja Trebeschi Rama 200g,8.99,"https://www.gbarbosa.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Gbarbosa,tomate,Tomate Salada Orgânico,3.33,"https://www.gbarbosa.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Gbarbosa,tomate,Tomate Uva Sweet Grape Orgânico 180g,10.19,"https://www.gbarbosa.com.br/hortifruti/tomate?_q=tomate&fuzzy=0&initialMap=ft&initialQuery=tomate&map=category-1,ft&operator=and"
+Paodeacucar,tomate,Tomate Italiano 500g (Aprox. 3 a 4 Unid),6.95,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Granel 500g (Aprox. 2 a 3 Unid),6.45,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Fonte Verde 250g,2.72,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate-Uva Sweet Grape Qualitá 180g,11.29,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Sweet Grape Qualitá 500g,20.5,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Grape 250g (Aprox. 20 Unid),7.47,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Cereja Rama 250g (Aprox. 15 Unid),7.47,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Uva Sweet Grape TURMA DA MÔNICA Unidade 180g,11.29,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Cereja Rama QUALITÁ 200g,11.9,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Cereja Qualitá 200g,10.29,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Italiano QUALITÁ Bandeja 500g,12.9,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Red Grape Orgânico 180g,10.9,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Caqui Granel 200g (1 Unidade),4.54,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Carmem QUALITÁ Bandeja 600g,12.9,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Mini Tomate Confeite Qualitá Fresh 250g,8.89,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate para Molho QUALITÁ Bandeja 600g,19.9,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Italiano Selecionado Qualitá 1kg,22.9,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Yellow 180g,13.9,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Rama Mallmann 350g,13.29,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Italiano Orgânico Taeq 500g,13.9,https://www.paodeacucar.com/busca?terms=tomate
+Paodeacucar,tomate,Tomate Salada Orgânico TAEQ 500g,13.9,https://www.paodeacucar.com/busca?terms=tomate
+Redemix,tomate,TOMATE 1 UNIDADE 190G,1.71,https://www.redemix.com.br/hortifruti/frutas/tomate?O=OrderByTopSaleDESC&PS=18#1
+Redemix,tomate,TOMATE SWEET GRAPE UVA 180G,7.98,https://www.redemix.com.br/hortifruti/frutas/tomate?O=OrderByTopSaleDESC&PS=18#1
+Mercantil,batata,Batata Inglesa Lisa Bingi,1.44,"https://www.mercantilatacado.com.br/hortifruti/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and"
+Mercantil,batata,Batata Doce,1.79,"https://www.mercantilatacado.com.br/hortifruti/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and"
+Hiperideal,batata,Batata Lavada 1 Unidade 200g ,1.6,"https://www.hiperideal.com.br/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and&query=/hortifruti/batata&searchState"
+Hiperideal,batata,Batata Doce 1 Unidade 360g ,3.24,"https://www.hiperideal.com.br/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and&query=/hortifruti/batata&searchState"
+Hiperideal,batata,Batata Doce Rosada 1 Unidade 360g ,3.24,"https://www.hiperideal.com.br/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and&query=/hortifruti/batata&searchState"
+Hiperideal,batata,Batata Aperitivo Bandeja 280g ,1.68,"https://www.hiperideal.com.br/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and&query=/hortifruti/batata&searchState"
+Gbarbosa,batata,Batata Inglesa Lisa Bingi,1.17,"https://www.gbarbosa.com.br/hortifruti/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and"
+Gbarbosa,batata,Batata Doce Cozida,11.5,"https://www.gbarbosa.com.br/hortifruti/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and"
+Gbarbosa,batata,Batata Doce Orgânica,4.5,"https://www.gbarbosa.com.br/hortifruti/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and"
+Gbarbosa,batata,Batata Lisa Mini Embalada,9.61,"https://www.gbarbosa.com.br/hortifruti/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and"
+Gbarbosa,batata,Batata Doce Yakon Embalada,15.23,"https://www.gbarbosa.com.br/hortifruti/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and"
+Gbarbosa,batata,Batata Inglesa Orgânica,2.42,"https://www.gbarbosa.com.br/hortifruti/batata?_q=batata&fuzzy=0&initialMap=ft&initialQuery=batata&map=category-1,ft&operator=and"
+Paodeacucar,batata,Mandioquinha (Batata Baroa) granel 350g (Aprox. 2 a 3 Unid),8.71,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Asterix 260g,3.35,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Aperitivo Qualitá 1kg,12.9,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Doce Branca 800g (Aprox. 2 a 3 Unid),7.19,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Doce Rosada QUALITÁ Bandeja 500g,6.99,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,"Batata para Assar e Cozinhar Qualitá 1,5kg",18.29,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Doce Rosada 500g,3.99,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Congelada Extra Crocante Airfryer McCain 600g,23.9,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Palha Extrafina Yoki Sachê 100g,10.29,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Congelada Tradicional McCain 1.5kg,37.9,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Palito Congelada QUALITÁ Pacote 500g,9.99,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,"Batata Congelada Clássica Fininha McCain 1,05kg",27.9,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Frita Lisa Clássica Lay's Pacote 115g,14.29,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Comum Orgânica Taeq 600g,12.9,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Palha Tradicional Yoki Sachê Leve 105g Pague 90g,8.74,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Congelada Smiles McCain 400g,16.9,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Palha Tradicional Yoki Sachê 105g,10.29,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,"Batata Pré-Frita Palito Congelada Qualitá Pacote 1,5kg",29.9,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Frita Lisa Sal E Vinagre Lays 70G,9.39,https://www.paodeacucar.com/busca?terms=batata
+Paodeacucar,batata,Batata Frita Lays Rústica Sal Marinho 68g,10.29,https://www.paodeacucar.com/busca?terms=batata
+Redemix,batata,BATATA LISA 1 UNIDADE 160G,1.28,https://www.redemix.com.br/hortifruti/legumes/batata?O=OrderByTopSaleDESC&PS=18#1
