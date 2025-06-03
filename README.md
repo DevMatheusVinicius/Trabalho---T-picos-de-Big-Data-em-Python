@@ -7,6 +7,6 @@ Este repositório contém o projeto desenvolvido para a disciplina **Tópicos de
 - Matheus Vinícius Ferreira Costa  
 - Arthur Motta Cumming  
 - Adlei Santos Pereira  
-- André Felipe Xavier Oliveira SanTOS  
+- André Felipe Xavier Oliveira Santos  
 - Jordyson Santos da Cruz
 
